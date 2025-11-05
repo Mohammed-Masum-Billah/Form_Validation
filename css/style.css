@@ -1,0 +1,16 @@
+.box{
+	overflow: hidden;
+}
+.item{
+	float: left;
+	box-sizing: border-box;
+	width: 25%;
+	height: 100px;
+	background-color: rgb(121, 17, 17);
+	border: 5px solid rgb(21, 65, 65);
+}
+.item{
+	text-align: center; 
+	font-size: 50px;
+	color: white;
+}
